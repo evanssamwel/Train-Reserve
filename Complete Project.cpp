@@ -1,7 +1,4 @@
-/**********************************************PREPROCESSORS**********************************************************/
-//Train Reservation System - BROUGHT TO YOU BY : code-projects.org
-//Working on basic structure
-//including all libraries for now
+
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
